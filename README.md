@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Bound to life time learning
 
 - 📫 How to reach me: 
-<a href="tel:+919207200171" target="blank">+91-920-7200-171</a><a href="tel:+918921562219" target="blank">+91-892-156-2219</a>
+<a href="tel:+919207200171" target="blank">+91-920-7200-171</a> Or <a href="tel:+918921562219" target="blank">+91-892-156-2219</a>
 
 <br>
 <p align="left"> <a href="https://twitter.com/AkhilSiby13" target="blank"><img src="https://img.shields.io/twitter/follow/AkhilSiby13?logo=twitter&style=for-the-badge" alt="AkhilSiby13" /></a> </p>
