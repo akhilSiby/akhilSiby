@@ -1,6 +1,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilSiby" alt="akhilSiby" /></a> </p>
 <br>
-### Hi there 👋
+### Hi there 👋 
+
+- 🌱 I’m **Akhil Siby**
 
 - 🔭 I’m currently working as freelancer along with doing my post graduation
 
