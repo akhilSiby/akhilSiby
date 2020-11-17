@@ -15,5 +15,3 @@
 <p align="left"> <a href="https://twitter.com/AkhilSiby13" target="blank"><img src="https://img.shields.io/twitter/follow/AkhilSiby13?logo=twitter&style=for-the-badge" alt="AkhilSiby13" /></a> </p>
 <a href="https://twitter.com/amaljoy_258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amaljoy_258" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhilsiby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilsiby" height="30" width="40" /></a>
-
-<a href="tel:+919207200171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/phone.svg" alt="Call" height="30" width="40" />Call</a>
