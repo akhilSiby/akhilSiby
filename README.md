@@ -1,3 +1,13 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilSiby" alt="akhilSiby" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/AkhilSiby13" target="blank"><img src="https://img.shields.io/twitter/follow/AkhilSiby13?logo=twitter&style=for-the-badge" alt="AkhilSiby13" /></a> </p>
+
+- 🔭 I’m currently working as Freelance developer
+
+- 🌱 I’m currently learning **React & UI/UX Designing**
+@@ -25,9 +27,6 @@
+<a href="https://twitter.com/amaljoy_258" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amaljoy_258" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akhilsiby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilsiby" height="30" width="40" /></a>
 ### Hi there 👋
 
 Here are some ideas to get you started:
