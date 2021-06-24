@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Bound to life time learning
 
 - 📫 How to reach me: 
-<a href="tel:+919207200171" target="blank">+91-920-7200-171</a> Or <a href="tel:+918921562219" target="blank">+91-892-156-2219</a>
+<a href="tel:+919207200171" target="blank">+91-920-7200-171</a>
 
 <br>
 
