@@ -8,26 +8,7 @@ Welcome to my profile! I'm **Akhil Siby**, a Full stack developer with a passion
 
 ---
 
-## 📫 Connect with Me
-Let's connect on social media or via email. You can find me at the following platforms:
-
-<a href="https://www.linkedin.com/in/akhilsiby/" target="_blank">
-  <img height="30em" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/akhilsiby.me/" target="_blank">
-  <img height="30em" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
-</a>
-<a href="https://akhilsiby.netlify.app" target="_blank">
-  <img height="30em" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" />
-</a>
-<a href="mailto:akhilsiby2000@gmail.com" target="_blank">
-  <img height="30em" src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" />
-</a>
-
----
-
 ## 📊 GitHub Stats
-Here's a snapshot of my GitHub activity:
 
 <img src="https://img.shields.io/github/followers/akhilSiby?style=social" height="20em" alt="GitHub Followers" />
 <img src="https://visitcount.itsvg.in/api?id=akhilSiby&icon=0" height="20em" alt="GitHub Profile View" />
