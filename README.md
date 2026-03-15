@@ -37,23 +37,20 @@
 
 <img src="https://img.shields.io/github/followers/akhilSiby?style=social" height="20" alt="GitHub Followers" /> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=akhilSiby&style=flat&color=grey" alt="Profile Views" />
 
-<br/>
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akhilSiby&theme=onedark&column=4&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
-
-<br/>
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilSiby&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilSiby&theme=dark&hide_border=true&layout=compact&langs_count=6" width="280" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akhilSiby&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=akhilSiby&theme=dark&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github" width="340" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilSiby&theme=dark&hide_border=true" width="340" />
     </td>
   </tr>
 </table>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akhilSiby&theme=dark&hide_border=true)
 
 > ⚡ Fun fact: Bound to life time learning
