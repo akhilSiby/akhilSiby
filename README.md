@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hey, I'm Akhil Siby 🥷</h1>
 <h3 align="center">Full Stack Engineer · Construction Technology · Data-Intensive Systems</h3>
 
----
 
 ## 🌍 What I Do
 
@@ -10,7 +9,6 @@
 - Build bots and automation using **Zoho, Zia Skills, and Sales IQ**
 - Architect and integrate **REST APIs**, optimize performance, and improve UI/UX across complex systems
 
----
 
 ## 🧑‍💻 What I'm Working On
 
@@ -19,7 +17,6 @@
 - 🗂️ Owning and evolving a core operational module end-to-end — architecture, performance, and maintenance
 - 🛠️ Reducing long-standing technical debt across an enterprise codebase
 
----
 
 ## 🌱 On the Side
 
@@ -27,7 +24,6 @@
 - 📖 Continuously picking up new languages, tools, and architectural ideas — currently gravitating toward Real-time Geospatial Information Systems
 - 🔍 Curious about how things work under the hood — performance, data flow, and why systems break the way they do
 
----
 
 ## 🧠 Engineering Focus
 
@@ -37,7 +33,6 @@
 - Reporting integrity & reproducible outputs
 - Evolving legacy systems safely
 
----
 
 ## ⚙️ Tech Stack
 
@@ -70,7 +65,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
----
 
 ## 🚀 Projects
 
@@ -81,24 +75,31 @@
 | **Attendance Management System** | Student attendance tracker with user management and analytics | — |
 | **DK Estate Management** | Estate management covering employees, salary, investments, and inventory | — |
 
----
 
 ## 📊 GitHub Stats
 
-<img src="https://img.shields.io/github/followers/akhilSiby?style=social" height="20em" alt="GitHub Followers" /> &nbsp;&nbsp; <img src="https://visitcount.itsvg.in/api?id=akhilSiby&icon=0" height="20em" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/akhilSiby?style=social" height="20" alt="GitHub Followers" /> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=akhilSiby&style=flat&color=grey" alt="Profile Views" />
 
-<span>![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akhilSiby&theme=onedark&column=10&no-frame=true)</span>
-
-<span>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilSiby&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</span>
-<span>![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akhilSiby&theme=dark&hide_border=true)</span>
-<span>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilSiby&theme=dark&hide_border=true&include_all_commits=true&count_private=true)</span>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akhilSiby&theme=react-dark&hide_border=true)
 ---
 
-## 🔝 Top Contributed Repos
+<br/>
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akhilSiby&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akhilSiby&theme=onedark&column=4&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
----
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilSiby&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akhilSiby&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+  </tr>
+</table>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akhilSiby&theme=dark&hide_border=true)
 
 > ⚡ Fun fact: Bound to life time learning
